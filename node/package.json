@@ -1,0 +1,20 @@
+{
+  "name": "slowport_restarter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "slowport_restart.js",
+  "dependencies": {
+    "htmlparser2": "^3.9.2",
+    "optimist": "^0.6.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "enclose": "^2.2.0",
+    "nexe": "^1.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

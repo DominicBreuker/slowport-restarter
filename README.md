@@ -6,7 +6,7 @@ Here comes your solution. This repo contains a simple command line utility to au
 
 ## How to use
 
-Locate and download a suitable binary in `go/build/slowport-restarter-<OS>-<Architecture>`. Then run it as follows (example for Mac OS):
+Locate and download a suitable binary in `go/build/slowport-restarter-<OS>-<Architecture>` ([click](https://github.com/DominicBreuker/slowport-restarter/tree/master/go/build)). Then run it as follows (example for Mac OS):
 
 ```bash
 slowport-restarter-darwin-amd64 --host speedport.ip --password <your router password>
